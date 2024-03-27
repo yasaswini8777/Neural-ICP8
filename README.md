@@ -2,4 +2,6 @@ Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignme
 
 Name: Yasaswini Majety ID: 700747747
 
+Types and applications of Autoencoders
+
 Code File - Neural_ICP8.ipynb Document-Neural-ICP8-700747747.pdf
